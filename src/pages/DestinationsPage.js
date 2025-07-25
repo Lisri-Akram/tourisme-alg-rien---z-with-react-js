@@ -1,6 +1,6 @@
 import React from 'react';
 import { Search, Filter, Star, MapPin, Heart } from 'lucide-react'; // Added Heart import
-import '../styles/DestinationsPage.css'; // Import your CSS file
+import '../styles/DestinationsPage.css'; 
 
 const DestinationsPage = ({
   filteredDestinations,

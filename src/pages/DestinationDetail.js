@@ -1,6 +1,6 @@
 import React from 'react';
 import { MapPin, Star, Heart, Camera, X } from 'lucide-react';
-import '../styles/DestinationDetail.css'; // Import the new CSS file
+import '../styles/DestinationDetail.css'; 
 
 const DestinationDetail = ({ destination, setCurrentView, toggleFavorite, favorites, getTypeIcon }) => (
   <div className="destination-detail-container">

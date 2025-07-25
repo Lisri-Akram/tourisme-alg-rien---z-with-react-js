@@ -1,4 +1,4 @@
-// src/pages/HomePage.js
+
 import React from 'react';
 import { MapPin, Star, Heart } from 'lucide-react';  //MapPin, Star, Heart must be  imported
 import '../styles/HomePage.css';

@@ -1,4 +1,4 @@
-// src/pages/FavoritesPage.js
+
 import React from 'react';
 import { Heart, Star, MapPin, Search } from 'lucide-react';
 import '../styles/FavoritesPage.css'; // New CSS file for favorites
