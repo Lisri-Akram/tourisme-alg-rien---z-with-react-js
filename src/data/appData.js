@@ -3,7 +3,7 @@ export const regionsData = [
     id: 1,
     name: 'Littoral Méditerranéen',
     description: 'Côte bleue, plages dorées et villes historiques',
-    image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=500&fit=crop',
+    image: 'https://fourwindstravels.dz/wp-content/uploads/2024/06/jijel1-1.jpg',
     destinations: 15,
     color: 'from-blue-500 to-cyan-400'
   },
@@ -11,7 +11,7 @@ export const regionsData = [
     id: 2,
     name: 'Sahara Algérien',
     description: 'Dunes infinies et oasis mystérieuses',
-    image: 'https://images.unsplash.com/photo-1539650116574-75c0c6d73aff?w=800&h=500&fit=crop',
+    image: 'https://www.algerie360.com/wp-content/smush-webp/2024/04/sahara-algerie-1-scaled.jpg.webp?x39896',
     destinations: 12,
     color: 'from-amber-500 to-orange-400'
   },
@@ -19,7 +19,7 @@ export const regionsData = [
     id: 3,
     name: 'Atlas Tellien',
     description: 'Montagnes majestueuses et vallées verdoyantes',
-    image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=500&fit=crop',
+    image: 'https://live.staticflickr.com/4834/45930653195_424a39e0f1_b.jpg',
     destinations: 8,
     color: 'from-green-500 to-emerald-400'
   },
@@ -27,7 +27,7 @@ export const regionsData = [
     id: 4,
     name: 'Hauts Plateaux',
     description: 'Steppes immenses et patrimoine ancestral',
-    image: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=500&fit=crop',
+    image: 'https://infogm.org/IMG/arton6281.jpg?1499690370',
     destinations: 10,
     color: 'from-purple-500 to-violet-400'
   }
@@ -72,14 +72,14 @@ export const destinationsData = [
     type: 'patrimoine',
     region: 'Nord',
     rating: 4.7,
-    image: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop',
+    image: 'https://cdn.generationvoyage.fr/2019/05/shutterstock_1177078978-2-min-e1557993699562.jpg',
     description: 'Site archéologique romain face à la Méditerranée, patrimoine mondial UNESCO',
     location: 'Tipaza',
     highlights: ['Ruines romaines', 'Amphithéâtre', 'Vue sur mer'],
     gallery: [
-      'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1539650116574-75c0c6d73aff?w=600&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop'
+      'https://images.unsplash.com/photo-1629989714683-9861709b7856?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      'https://images.unsplash.com/photo-1678637409763-7cdcd683ba9f?q=80&w=1291&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      'https://www.horizons.dz/wp-content/uploads/2024/07/tipasa-ph-fouad-s-68.jpg'
     ]
   },
   {
@@ -93,9 +93,9 @@ export const destinationsData = [
     location: 'Blida',
     highlights: ['Cèdres de l\'Atlas', 'Randonnées', 'Faune endémique'],
     gallery: [
-      'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1539650116574-75c0c6d73aff?w=600&h=400&fit=crop'
+      'https://images.unsplash.com/photo-1488810050923-3897e8aa9037?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      'https://s1.wklcdn.com/image_37/1138273/15854130/9906445.700x525.jpg',
+      'https://www.globalnationalparks.com/wp-content/uploads/chrea-national-park-in-algeria-africa.jpg'
     ]
   },
   {
@@ -109,9 +109,9 @@ export const destinationsData = [
     location: 'Oran',
     highlights: ['Santa Cruz', 'Corniche oranaise', 'Théâtre régional'],
     gallery: [
-      'https://images.unsplash.com/photo-1539650116574-75c0c6d73aff?w=600&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop'
+      'https://images.unsplash.com/photo-1651894440858-c9a21fc572bc?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      'https://ouest-tribune.dz/wp-content/uploads/2022/07/une-02-3.jpg',
+      'https://cartes.patrimoineculturelalgerien.org/sites/default/files/styles/full-page/public/photos/DSC_9826.jpg?itok=GYMFJ9XR'
     ]
   },
   {
@@ -125,9 +125,9 @@ export const destinationsData = [
     location: 'Illizi',
     highlights: ['Art rupestre', 'Formations géologiques', 'Ciel étoilé'],
     gallery: [
-      'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1539650116574-75c0c6d73aff?w=600&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop'
+      'https://www.hominides.com/data/images/illus/site-prehistorique/tassili-n-ajjer/troupeau-bovins.jpg',
+      'https://www.elmoudjahid.com/storage/images/article/e08bafe8b1bc036dad70ec10eed703b4.jpg',
+      'https://i.ytimg.com/vi/yNvxpyR0doU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA5wOvbCSML0HQoT1LFA24EFwHuig'
     ]
   }
 ];
