@@ -40,14 +40,14 @@ export const destinationsData = [
     type: 'patrimoine',
     region: 'Nord',
     rating: 4.8,
-    image: 'https://images.unsplash.com/photo-1539650116574-75c0c6d73aff?w=600&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1535585538107-e457d37fbde5?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YWxnZXJpYXxlbnwwfHwwfHx8MA%3D%3D',
     description: 'Capitale historique aux mille facettes, mélange d\'architecture ottomane et coloniale',
     location: 'Alger',
     highlights: ['Casbah d\'Alger', 'Notre-Dame d\'Afrique', 'Jardin d\'Essai'],
     gallery: [
-      'https://images.unsplash.com/photo-1539650116574-75c0c6d73aff?w=600&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop'
+      'https://images.unsplash.com/photo-1610133290889-0ed892ce5157?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      'https://static.wixstatic.com/media/fb33fe_d2ba99212ae44d1cb6d355f5163313ba~mv2.jpg/v1/fill/w_980,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb33fe_d2ba99212ae44d1cb6d355f5163313ba~mv2.jpg',
+      'https://elwatan-dz.com/storage/23781/JARDIN.gif'
     ]
   },
   {
@@ -56,14 +56,14 @@ export const destinationsData = [
     type: 'desert',
     region: 'Sahara',
     rating: 4.9,
-    image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1465217787303-8f029c50d092?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     description: 'Oasis spectaculaire entourée de dunes dorées et de palmeraies luxuriantes',
     location: 'Béchar',
     highlights: ['Dunes de sable rouge', 'Palmeraies', 'Architecture ksourienne'],
     gallery: [
-      'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1539650116574-75c0c6d73aff?w=600&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop'
+      'https://plus.unsplash.com/premium_photo-1681149342561-96713cd1728a?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      'https://plus.unsplash.com/premium_photo-1680883742267-7a1eec2ea140?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      'https://www.pierreseche.com/images/fig15_darb_boussemghoun.jpg'
     ]
   },
   {
@@ -104,7 +104,7 @@ export const destinationsData = [
     type: 'plage',
     region: 'Nord',
     rating: 4.5,
-    image: 'https://images.unsplash.com/photo-1539650116574-75c0c6d73aff?w=600&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1610725954918-8f791efcda3f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     description: 'Perle de l\'Ouest algérien, mélange de culture andalouse et méditerranéenne',
     location: 'Oran',
     highlights: ['Santa Cruz', 'Corniche oranaise', 'Théâtre régional'],
@@ -120,7 +120,7 @@ export const destinationsData = [
     type: 'desert',
     region: 'Sahara',
     rating: 4.9,
-    image: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1544494232-30565e6bdf9e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     description: 'Formations rocheuses spectaculaires et art rupestre millénaire',
     location: 'Illizi',
     highlights: ['Art rupestre', 'Formations géologiques', 'Ciel étoilé'],
