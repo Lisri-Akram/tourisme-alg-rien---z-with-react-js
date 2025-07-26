@@ -36,6 +36,7 @@
 }
 
 .header-nav-link {
+  background-color: #3b82f6;
   color: inherit; /* Inherit text color from parent */
   text-decoration: none; /* Remove default underline */
   display: flex; 

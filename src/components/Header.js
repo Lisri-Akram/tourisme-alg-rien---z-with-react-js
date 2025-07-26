@@ -1,10 +1,8 @@
-
 import React from 'react';
 import { Plane, MapPin, Heart } from 'lucide-react';
+import '../styles/Header.css';
 
-import '../styles/Header.css'; 
-
-const Header = () => {
+const Header = ({ setCurrentView }) => {
   return (
     <header className="header-main">
       <div className="header-container">
@@ -15,16 +13,22 @@ const Header = () => {
         <nav>
           <ul className="header-nav-list">
             <li>
-              <a href="/" className="header-nav-link">
+              <button
+                className="header-nav-link"
+                onClick={() => setCurrentView('destinations')}
+              >
                 <MapPin size={20} />
                 <span>Destinations</span>
-              </a>
+              </button>
             </li>
             <li>
-              <a href="/favorites" className="header-nav-link">
+              <button
+                className="header-nav-link"
+                onClick={() => setCurrentView('favorites')}
+              >
                 <Heart size={20} />
                 <span>Favorites</span>
-              </a>
+              </button>
             </li>
           </ul>
         </nav>

@@ -108,6 +108,7 @@ const TourismPlatform = () => {
         setMobileMenuOpen={setMobileMenuOpen}
         favoritesCount={favorites.length}
       />
+      
       <main>
         {renderContent()}
       </main>
