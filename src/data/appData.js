@@ -44,11 +44,15 @@ export const destinationsData = [
     description: 'Capitale historique aux mille facettes, mélange d\'architecture ottomane et coloniale',
     location: 'Alger',
     highlights: ['Casbah d\'Alger', 'Notre-Dame d\'Afrique', 'Jardin d\'Essai'],
+    price: '15000 DA',
+      duration: '2-3 jours',
+      bestTime: 'Mars - Mai',
     gallery: [
       'https://images.unsplash.com/photo-1610133290889-0ed892ce5157?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       'https://static.wixstatic.com/media/fb33fe_d2ba99212ae44d1cb6d355f5163313ba~mv2.jpg/v1/fill/w_980,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb33fe_d2ba99212ae44d1cb6d355f5163313ba~mv2.jpg',
       'https://elwatan-dz.com/storage/23781/JARDIN.gif'
-    ]
+    ],
+    tags: ['Histoire', 'Culture', 'Architecture']
   },
   {
     id: 2,
@@ -59,6 +63,9 @@ export const destinationsData = [
     image: 'https://images.unsplash.com/photo-1465217787303-8f029c50d092?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     description: 'Oasis spectaculaire entourée de dunes dorées et de palmeraies luxuriantes',
     location: 'Béchar',
+    price: '25000 DA',
+    duration: '3-4 jours',
+    bestTime: 'Octobre - Mars',
     highlights: ['Dunes de sable rouge', 'Palmeraies', 'Architecture ksourienne'],
     gallery: [
       'https://plus.unsplash.com/premium_photo-1681149342561-96713cd1728a?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
@@ -75,6 +82,9 @@ export const destinationsData = [
     image: 'https://cdn.generationvoyage.fr/2019/05/shutterstock_1177078978-2-min-e1557993699562.jpg',
     description: 'Site archéologique romain face à la Méditerranée, patrimoine mondial UNESCO',
     location: 'Tipaza',
+    price: '8000 DA',
+    duration: '1 jour',
+    bestTime: 'Avril - Juin',
     highlights: ['Ruines romaines', 'Amphithéâtre', 'Vue sur mer'],
     gallery: [
       'https://images.unsplash.com/photo-1629989714683-9861709b7856?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
@@ -91,6 +101,9 @@ export const destinationsData = [
     image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop',
     description: 'Parc national montagneux, paradis des randonneurs avec cèdres centenaires',
     location: 'Blida',
+    price: '12000 DA',
+    duration: '2 jours',
+    bestTime: 'Mai - Septembre',
     highlights: ['Cèdres de l\'Atlas', 'Randonnées', 'Faune endémique'],
     gallery: [
       'https://images.unsplash.com/photo-1488810050923-3897e8aa9037?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
@@ -107,6 +120,9 @@ export const destinationsData = [
     image: 'https://images.unsplash.com/photo-1610725954918-8f791efcda3f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     description: 'Perle de l\'Ouest algérien, mélange de culture andalouse et méditerranéenne',
     location: 'Oran',
+    price: '18000 DA',
+    duration: '2-3 jours',
+    bestTime: 'Juin - Septembre',
     highlights: ['Santa Cruz', 'Corniche oranaise', 'Théâtre régional'],
     gallery: [
       'https://images.unsplash.com/photo-1651894440858-c9a21fc572bc?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
@@ -123,6 +139,9 @@ export const destinationsData = [
     image: 'https://images.unsplash.com/photo-1544494232-30565e6bdf9e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     description: 'Formations rocheuses spectaculaires et art rupestre millénaire',
     location: 'Illizi',
+    price: '8000 DA',
+    duration: '2-3 jours',
+    bestTime: 'Juin - Septembre',
     highlights: ['Art rupestre', 'Formations géologiques', 'Ciel étoilé'],
     gallery: [
       'https://www.hominides.com/data/images/illus/site-prehistorique/tassili-n-ajjer/troupeau-bovins.jpg',

@@ -1,8 +1,8 @@
-// src/components/Header.js
+
 import React from 'react';
 import { Plane, MapPin, Heart } from 'lucide-react';
-// Import your custom CSS file
-import '../styles/Header.css'; // Assuming you create this file
+
+import '../styles/Header.css'; 
 
 const Header = () => {
   return (

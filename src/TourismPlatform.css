@@ -1,0 +1,32 @@
+/* TourismPlatform.css */
+
+/* Root container */
+.tourism-platform {
+  min-height: 100vh;
+  background-color: #f9fafb;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Main content */
+.main-content {
+  flex: 1;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Icons */
+.icon {
+  width: 20px;
+  height: 20px;
+  color: #444;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .main-content {
+    padding: 10px;
+  }
+}
