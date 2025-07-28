@@ -137,7 +137,7 @@ export const destinationsData = [
     region: 'Sahara',
     rating: 4.9,
     image: 'https://images.unsplash.com/photo-1544494232-30565e6bdf9e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    description: 'Formations rocheuses spectaculaires et art rupestre millénaire',
+    description: 'Formations rocheuses spectaculaires et art rupestre millénaire unique.',
     location: 'Illizi',
     price: '8000 DA',
     duration: '2-3 jours',
