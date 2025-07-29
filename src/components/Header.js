@@ -1,15 +1,21 @@
 import React from 'react';
 import { Plane, MapPin, Heart } from 'lucide-react';
 import '../styles/Header.css';
+import { Link } from 'react-router-dom';
 
 const Header = ({ setCurrentView }) => {
   return (
     <header className="header-main">
       <div className="header-container">
-        <div className="header-logo-group">
-          <Plane size={28} />
-          <h1 className="header-title">Tourism Platform</h1>
-        </div>
+        <button  
+        className="header-nav-link"
+        onClick={() => setCurrentView('home')}
+        >
+          <div className="header-logo-group">
+            <Plane size={28} />
+            <h1 className="header-title">Tourism Platform</h1>
+          </div>
+        </button>
         <nav>
           <ul className="header-nav-list">
             <li>
